@@ -1,7 +1,7 @@
 # Machine-Learning-Coursera
 
 This is dervied from the machine learning course in Coursera by Andrew Ng.
-/n There are total 8 exercises chapter as follows.
+// There are total 8 exercises chapter as follows.
 
 ## ex1
 ## ex2
